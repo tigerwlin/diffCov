@@ -1,2 +1,2 @@
 # diffCov
-This is the online depository for the differential correlation method
+This is the online depository for the differential covariance method
